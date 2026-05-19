@@ -1,2 +1,9 @@
 
+# mise
+eval "$(mise activate zsh)"
+
+# starship
+eval "$(starship init zsh)"
+
+# ghq + peco alias
 alias gcd='cd $(ghq list --full-path | peco)'
