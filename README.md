@@ -48,3 +48,6 @@ chezmoi apply
 
 - raycast設定のインポート
  - `gha get git@github.com:hase1108/cheatsheets.git`
+
+- VSCodeのsetting.json
+  - devcontainerの接続先の設定
